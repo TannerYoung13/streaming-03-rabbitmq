@@ -117,7 +117,7 @@ Sending the same message each time is kind of boring. This time:
 1. Execute the updated emit_message.py. 
 1. Watch what happens in the listening terminal.
 
-![mult terminals](multiple terminals.PNG)
+![alt text](<actual mult terminals.PNG>)
 
 Repeat this process several times - emit at least 4 different messages.
 Don't worry - it's just code. We can always revert back (try the 'undo' command in VS Code) to a version that works. You can't hurt anything.

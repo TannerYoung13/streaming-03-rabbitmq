@@ -1,9 +1,16 @@
 ======================================================================
 Welcome to the Python Debugging Information Utility ABOUTENV.PY
-Date and Time: 2024-05-06 at 06:20 PM
+Date and Time: 2024-05-06 at 07:50 PM
 ======================================================================
 ======================================================================
 YAY! .venv directory exists.
 ======================================================================
-ERROR: Activate the .venv virtual environment using: .venv\Scripts\activate
+YAY! The .venv virtual environment is active.
+======================================================================
+YAY! All dependencies are installed in the .venv.
+======================================================================
+
+All checks passed successfully! Your environment is set up correctly.
+If it asks you to upgrade pip, please do so using the suggested command.
+
 ======================================================================

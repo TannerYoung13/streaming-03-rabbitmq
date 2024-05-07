@@ -8,10 +8,10 @@ conn = pika.BlockingConnection(pika.ConnectionParameters("localhost"))
 ch = conn.channel()
 
 # Use the channel to declare a queue
-ch.queue_declare(queue="hello")
+ch.queue_declare(queue="goodbye")
 
 # Define the message to be sent
-message = "this took me several tries but i think I worked it out"
+message = "This is a different message7!"
 
 # Use the channel to publish the message to the queue
 ch.basic_publish(exchange="", routing_key="hello", body=message)
